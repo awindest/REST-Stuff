@@ -26,6 +26,7 @@ const bikes = [
         name: 'Paul',
         bike: 'Big Wheel'
     }
+
 ]
 
 export function GET ({ url }) {

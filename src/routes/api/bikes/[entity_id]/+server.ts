@@ -29,6 +29,5 @@ const bikes = [
 ]
 
 export function GET ({ params }) {
-
     return json(bikes[params.entity_id])
 }
