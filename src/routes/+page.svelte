@@ -1,1 +1,1 @@
-<h1>Hello Paul R! 👋 this is the client 🍌</h1>
+<h1>Hello 👋 this is the client 🍌</h1>
